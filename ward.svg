@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="ward.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#cfb2b2"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.0716611"
+     inkscape:cx="150.40722"
+     inkscape:cy="86.923653"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="72.924713"
+       y="85.621426"
+       width="40.043481"
+       height="19.858962"
+       id="rect176" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;fill:#000000;stroke-width:0.264583"
+       x="6.6325407"
+       y="20.242168"
+       id="text120"><tspan
+         sodipodi:role="line"
+         id="tspan118"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Centaur;-inkscape-font-specification:Centaur;fill:#ffffff;stroke-width:0.264583"
+         x="6.6325407"
+         y="20.242168">S<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Centaur;-inkscape-font-specification:Centaur"
+   id="tspan418">EA</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Centaur;-inkscape-font-specification:Centaur;fill:#ffffff;stroke-width:0.264583"
+         x="6.6325407"
+         y="39.003933"
+         id="tspan122">W<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Centaur;-inkscape-font-specification:Centaur"
+   id="tspan420">ARD</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text174"
+       style="white-space:pre;shape-inside:url(#rect176);display:inline;fill:#000000" />
+  </g>
+</svg>
